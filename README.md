@@ -1,8 +1,10 @@
 # Awesome SCA [![Awesome][awesome-badge]][awesome-link]
 
-> A curated list of awesome SCA projects
+> An unofficial curated list of awesome SCA projects
 
-Official and Unofficial tools and other projects that make the Society for Creative Anachronism go brrrrr
+A list of Official and Unofficial tools and other projects that make the Society for Creative Anachronism go brrrrr
+
+This unofficial project is not sponsored or owned by SCA, Inc. or any of its subsidiaries.
 
 ## Table of Contents
 
